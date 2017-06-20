@@ -1,0 +1,1 @@
+# generic-scratch-add-sprite-from-file
