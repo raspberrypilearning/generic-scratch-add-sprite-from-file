@@ -2,6 +2,6 @@
 
 	![sprite from file](images/sprite-from-file.png)
 
-- You can now choose a file, and click on __Open__ when you are done
+- Choose a file and click on __Open__ when you are done.
 
 	![choose sprite](images/choose-sprite.png)
